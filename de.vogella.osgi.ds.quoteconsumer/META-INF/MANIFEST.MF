@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Quoteconsumer
+Bundle-SymbolicName: de.vogella.osgi.ds.quoteconsumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: de.vogella.osgi.quote
+Service-Component: OSGI-INF/component.xml
